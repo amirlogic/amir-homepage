@@ -1,7 +1,7 @@
 ---
 title: Just a test
+category: misc
+published: 29 March 2022
 ---
-
-# Test title
 
 Welcome to my blog!
