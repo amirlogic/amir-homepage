@@ -78,6 +78,9 @@
     async asyncData({ $content, params }) {
 
       const article = await $content('articles', params.slug).fetch()
+                            //.catch((e) => {
+                              //error({ statusCode: 404, message: 'Post not found' })
+                            //})
 
       return { article }
     },

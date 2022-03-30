@@ -47,8 +47,15 @@ export default {
   build: {
   },
 
+  compilerOptions: {
+    "types": [
+      "@nuxt/types",
+      "@nuxt/content"
+    ]
+  },
+
   content: {
-    apiPrefix: '_blog',
+    //apiPrefix: '_blog',
     //dir: 'dist/blog'
   }
 }
