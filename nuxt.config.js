@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'amir-homepage',
+    title: 'Amir\'s Homepage',
     htmlAttrs: {
       lang: 'en'
     },
@@ -45,5 +45,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  content: {
+    apiPrefix: '_blog',
+    //dir: 'dist/blog'
   }
 }
