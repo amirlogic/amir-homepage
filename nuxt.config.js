@@ -57,5 +57,9 @@ export default {
   content: {
     //apiPrefix: '_blog',
     //dir: 'dist/blog'
+  },
+
+  generate: {
+    fallback: true
   }
 }
