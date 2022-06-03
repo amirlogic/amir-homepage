@@ -18,10 +18,18 @@
 
       <div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal" style="font-family:Georgia,serif;">
 
-          <div class="font-sans">
+          <div class="">
             
-                <h1 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl">Tech & Life Sciences</h1>
+                <h1 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl">Pharmacist &amp; Programmer</h1>
                 
+                <p class="mt-6">I studied Pharmacy for 5 years, then I spent 4 more years doing a residency program in Medical Laboratory Science,
+                  and since the early years of my undergraduate studies, I learned myself programming, and I understood that code has an fantastic power.
+                  During the last decade, social media apps have changed our lives, thanks to web technologies, and the digital transformation is coming to healthcare, 
+                  although the process is a little bit slower, but some concepts are now a reality: Telemedecine is already a thing, and artificial intelligence is being used in image analysis as well as drug discovery.
+                </p>
+
+                <p class="mt-6"></p>
+
           </div>
 
       </div>
@@ -48,16 +56,19 @@
             <div class="px-8">
 
               <h3 class="font-bold text-gray-900">Social</h3>
+
               <ul class="list-reset items-center text-sm pt-3">
+
                 <li>
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="#">LinkedIn</a>
+                  <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="https://www.linkedin.com/in/amirhac/" target="_blank">LinkedIn</a>
                 </li>
                 <li>
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="#">Medium</a>
+                  <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="https://amir-hac.medium.com" target="_blank">Medium</a>
                 </li>
                 <li>
-                  <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="#">Twitter</a>
+                  <a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="https://github.com/amirlogic" target="_blank">GitHub</a>
                 </li>
+                
               </ul>
 
             </div>

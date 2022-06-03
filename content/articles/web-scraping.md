@@ -1,6 +1,6 @@
 ---
-title: Just a test
-category: misc
+title: Web scraping
+category: tech
 published: 29 March 2022
 ---
 
