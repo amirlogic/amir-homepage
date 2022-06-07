@@ -32,6 +32,8 @@
 
           </div>
 
+          <div><a href="/blog/tech">Tech</a> - <a href="/blog/med">Med</a> - <a href="/blog/misc">Misc</a></div>
+
       </div>
 
     </div>
